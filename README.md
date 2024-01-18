@@ -1,22 +1,45 @@
-Header:
+#Nemo:
+This project aims to create an engaging and accessible quiz game specifically designed for children with dyslexia, disability with moving, aged 6-11.
+It leverages cutting-edge technologies to provide alternative ways of interacting with the game, making it enjoyable and educational for everyone.
+##Key Features
+##Eye tracking and hand tracking gameplay: -
+Control the game using your eyes and hands, offering a unique and inclusive experience.
+ex git:
+---
 
-Consider adding a brief tagline after the title that succinctly captures the essence of the project. For example, "Nemo: An inclusive quiz game for children with dyslexia and motor disabilities."
-Features:
+---
+##tools:
+Text-to-image conversion: Visualizes text to improve readability and comprehension.
+Speech recognition: Improve your accent.
+fonts and color schemes: Enhance visual clarity and reduce strain.
+Tailored quiz questions: Age-appropriate content aligned with dyslexia & disability with moving specific needs.
+Positive reinforcement: Incorporates Happy Face API to analyze facial expressions and provide encouraging feedback during gameplay.
+##Technologies
+Python: Core programming language for game logic and accessibility features.
+OpenCV: Powerful library for real-time computer vision, enabling eye tracking and hand tracking.
+Unity: Versatile game engine for creating immersive and interactive 3D environments.
+Happy Face API: Cloud-based facial expression recognition service for adaptive gameplay.
+##Project Structure
+README.md: This file (provides an overview and instructions).
+main.py: Main Python script for game logic and accessibility features.
+controllers/: Python modules for eye-tracking and hand-tracking controllers.
+assets/: 3D models, textures, audio files, and other game assets.
+scenes/: Unity scenes for different game levels and interactions.
+##Installation and Usage
+###Prerequisites:
+Python 3. x
+OpenCV library
+Unity game engine
+Happy Face API account (optional)
+##Instructions:
+Clone this repository.
+Install required libraries (only download pyautogui, mediapipe and cv2 ).
+Open the Unity project and configure the settings.
+Run the main.py script to start the game.
+Contributing
+##Your contributions are welcome! Please feel free to:
+Submit bug reports or feature requests.
+Create pull requests with code improvements or additions.
+Share ideas and feedback to enhance the game's accessibility and impact.
 
-Instead of bullet points, you could use a combination of headings and concise descriptions to further highlight each feature and its benefits. For example, under "Eye tracking and hand tracking gameplay," you could write something like: "Experience gameplay like never before using your eyes and hands. Nemo offers an intuitive and inclusive way to interact with the game, making it accessible for everyone."
-Technologies:
-
-You could list the versions of the core technologies used for better clarity. For example, "Python 3.8" instead of just "Python 3.x."
-Project Structure:
-
-Briefly explain the purpose of each folder within the project structure to give users a better understanding of the organization.
-Installation and Usage:
-
-Consider creating a dedicated "Documentation" section with detailed instructions on installation, configuration, and gameplay for different user types (developers, gamers, etc.).
-Contributing:
-
-Elaborate on the preferred contribution methods for each type of involvement (bug reports, pull requests, feedback). You could also create a separate "Contributing Guide" document for more thorough instructions.
-Contact:
-
-Consider adding your email address or another easily accessible contact method alongside your LinkedIn link.
-Overall, your readme structure is solid, and these suggestions are just minor tweaks to further enhance its clarity and informativeness. Keep up the great work on this valuable project!
+[contact] ((https://www.linkedin.com/in/karim-elgenedy/)) - "my LinkedIn account"
