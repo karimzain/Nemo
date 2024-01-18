@@ -45,12 +45,10 @@ Install required libraries (only download pyautogui, mediapipe and cv2 ).
 
 importing libraries:
 ---
-import pyautogui
-import mediapipe
+import pyautogui,
+import mediapipe,
 import cv2
 ---
-# This is a Python code block
-print("Hello, world!")
 Open the Unity project and configure the settings.
 Run the main.py script to start the game.
 Contributing
