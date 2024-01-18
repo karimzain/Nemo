@@ -1,4 +1,4 @@
-#header Nemo
+Nemo
 -----
 This project aims to create an engaging and accessible quiz game specifically designed for children with dyslexia, disability with moving, aged 6-11.
 It leverages cutting-edge technologies to provide alternative ways of interacting with the game, making it enjoyable and educational for everyone.
@@ -28,15 +28,28 @@ main.py: Main Python script for game logic and accessibility features.
 controllers/: Python modules for eye-tracking and hand-tracking controllers.
 assets/: 3D models, textures, audio files, and other game assets.
 scenes/: Unity scenes for different game levels and interactions.
-##Installation and Usage
-###Prerequisites:
+
+Installation and Usage
+---
+Prerequisites:
+-
 Python 3. x
 OpenCV library
 Unity game engine
 Happy Face API account (optional)
-##Instructions:
+
+Instructions:
+--
 Clone this repository.
 Install required libraries (only download pyautogui, mediapipe and cv2 ).
+
+importing libraries:
+---
+import pyautogui
+import mediapipe
+import cv2
+---
+
 Open the Unity project and configure the settings.
 Run the main.py script to start the game.
 Contributing
@@ -46,3 +59,4 @@ Create pull requests with code improvements or additions.
 Share ideas and feedback to enhance the game's accessibility and impact.
 
 [contact] ((https://www.linkedin.com/in/karim-elgenedy/)) - "my LinkedIn account"
+---
