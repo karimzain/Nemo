@@ -1,13 +1,14 @@
 #Nemo:
+-----
 This project aims to create an engaging and accessible quiz game specifically designed for children with dyslexia, disability with moving, aged 6-11.
 It leverages cutting-edge technologies to provide alternative ways of interacting with the game, making it enjoyable and educational for everyone.
-##Key Features
-##Eye tracking and hand tracking gameplay: -
-Control the game using your eyes and hands, offering a unique and inclusive experience.
-ex git:
----
 
----
+##Key Features
+----
+##Eye tracking and hand tracking gameplay: -
+----
+Control the game using your eyes and hands, offering a unique and inclusive experience.
+
 ##tools:
 Text-to-image conversion: Visualizes text to improve readability and comprehension.
 Speech recognition: Improve your accent.
