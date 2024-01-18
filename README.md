@@ -1,21 +1,23 @@
-#Nemo:
+#header Nemo
 -----
 This project aims to create an engaging and accessible quiz game specifically designed for children with dyslexia, disability with moving, aged 6-11.
 It leverages cutting-edge technologies to provide alternative ways of interacting with the game, making it enjoyable and educational for everyone.
 
-##Key Features
+Key Features
 ----
-##Eye tracking and hand tracking gameplay: -
-----
+Eye tracking and hand tracking gameplay: -
 Control the game using your eyes and hands, offering a unique and inclusive experience.
 
-##tools:
+tools
+-----
 Text-to-image conversion: Visualizes text to improve readability and comprehension.
 Speech recognition: Improve your accent.
 fonts and color schemes: Enhance visual clarity and reduce strain.
 Tailored quiz questions: Age-appropriate content aligned with dyslexia & disability with moving specific needs.
 Positive reinforcement: Incorporates Happy Face API to analyze facial expressions and provide encouraging feedback during gameplay.
-##Technologies
+
+Technologies
+---
 Python: Core programming language for game logic and accessibility features.
 OpenCV: Powerful library for real-time computer vision, enabling eye tracking and hand tracking.
 Unity: Versatile game engine for creating immersive and interactive 3D environments.
