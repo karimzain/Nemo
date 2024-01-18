@@ -39,5 +39,5 @@ Submit bug reports or feature requests.
 Create pull requests with code improvements or additions.
 Share ideas and feedback to enhance the game's accessibility and impact.
 
-[contact] (https://www.linkedin.com/in/karim-elgenedy/) - "my LinkedIn account"
+[contact] ((https://www.linkedin.com/in/karim-elgenedy/)) - "my LinkedIn account"
 
