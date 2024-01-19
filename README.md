@@ -43,7 +43,7 @@ Instructions:
 Clone this repository.
 Install required libraries (only download pyautogui, mediapipe and cv2 ).
 
-ex git:
+how to install libraries:
 -
 import pyautogui
 import mediapipe
